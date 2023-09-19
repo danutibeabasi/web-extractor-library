@@ -1,1 +1,1 @@
-# web-extractor-library
+# web-extractor-nodejs-library
